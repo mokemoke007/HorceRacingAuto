@@ -1,1 +1,4 @@
 確認用テキスト
+
+Githubマージ参考
+https://www.atmarkit.co.jp/ait/articles/1702/27/news022.html
