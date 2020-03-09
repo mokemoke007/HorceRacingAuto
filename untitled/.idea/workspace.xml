@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a5823647-68e8-419f-aa31-d0e1a55d308b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1YstNLQghJDexOoE33sICq8RORb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/新規スクラッチ・ファイル" value="Python" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.gmosearch_test">
+    <configuration name="gmosearch_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/gmosearch_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="scratch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.gmosearch_test" />
+        <item itemvalue="Python.scratch" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a5823647-68e8-419f-aa31-d0e1a55d308b" name="Default Changelist" comment="" />
+      <created>1583743088813</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583743088813</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="79" y="0" key="#Notifications" timestamp="1583743403651">
+      <screen x="0" y="0" width="1033" height="617" />
+    </state>
+    <state x="79" y="0" key="#Notifications/0.0.1033.617@0.0.1033.617" timestamp="1583743403651" />
+    <state x="393" y="74" key="FileChooserDialogImpl" timestamp="1583743924265">
+      <screen x="0" y="0" width="1033" height="617" />
+    </state>
+    <state x="393" y="74" key="FileChooserDialogImpl/0.0.1033.617@0.0.1033.617" timestamp="1583743924265" />
+    <state width="980" height="128" key="GridCell.Tab.0.bottom" timestamp="1583760251156">
+      <screen x="0" y="0" width="1033" height="617" />
+    </state>
+    <state width="980" height="128" key="GridCell.Tab.0.bottom/0.0.1033.617@0.0.1033.617" timestamp="1583760251156" />
+    <state width="980" height="128" key="GridCell.Tab.0.center" timestamp="1583760251156">
+      <screen x="0" y="0" width="1033" height="617" />
+    </state>
+    <state width="980" height="128" key="GridCell.Tab.0.center/0.0.1033.617@0.0.1033.617" timestamp="1583760251156" />
+    <state width="980" height="128" key="GridCell.Tab.0.left" timestamp="1583760251156">
+      <screen x="0" y="0" width="1033" height="617" />
+    </state>
+    <state width="980" height="128" key="GridCell.Tab.0.left/0.0.1033.617@0.0.1033.617" timestamp="1583760251156" />
+    <state width="980" height="128" key="GridCell.Tab.0.right" timestamp="1583760251156">
+      <screen x="0" y="0" width="1033" height="617" />
+    </state>
+    <state width="980" height="128" key="GridCell.Tab.0.right/0.0.1033.617@0.0.1033.617" timestamp="1583760251156" />
+    <state width="980" height="161" key="GridCell.Tab.1.bottom" timestamp="1583760251154">
+      <screen x="0" y="0" width="1033" height="617" />
+    </state>
+    <state width="980" height="161" key="GridCell.Tab.1.bottom/0.0.1033.617@0.0.1033.617" timestamp="1583760251154" />
+    <state width="980" height="161" key="GridCell.Tab.1.center" timestamp="1583760251154">
+      <screen x="0" y="0" width="1033" height="617" />
+    </state>
+    <state width="980" height="161" key="GridCell.Tab.1.center/0.0.1033.617@0.0.1033.617" timestamp="1583760251154" />
+    <state width="980" height="161" key="GridCell.Tab.1.left" timestamp="1583760251154">
+      <screen x="0" y="0" width="1033" height="617" />
+    </state>
+    <state width="980" height="161" key="GridCell.Tab.1.left/0.0.1033.617@0.0.1033.617" timestamp="1583760251154" />
+    <state width="980" height="161" key="GridCell.Tab.1.right" timestamp="1583760251154">
+      <screen x="0" y="0" width="1033" height="617" />
+    </state>
+    <state width="980" height="161" key="GridCell.Tab.1.right/0.0.1033.617@0.0.1033.617" timestamp="1583760251154" />
+    <state x="30" y="0" key="SettingsEditor" timestamp="1583757537166">
+      <screen x="0" y="0" width="1033" height="617" />
+    </state>
+    <state x="30" y="0" key="SettingsEditor/0.0.1033.617@0.0.1033.617" timestamp="1583757537166" />
+    <state x="225" y="137" key="com.intellij.ide.util.TipDialog" timestamp="1583760407751">
+      <screen x="0" y="0" width="1033" height="617" />
+    </state>
+    <state x="225" y="137" key="com.intellij.ide.util.TipDialog/0.0.1033.617@0.0.1033.617" timestamp="1583760407751" />
+  </component>
+</project>
